@@ -1,15 +1,15 @@
-
-
-<channels>
-
-<channel>
-<name>game of thrones</name>
-<externallink>http://britishbulldog.hol.es/addon/game%20of%20thrones/season%2007%20episode%2001.xml</externallink>
-<thumbnail>http://i.imgur.com/isu2hRL.jpg</thumbnail>
-<fanart>http://i.imgur.com/iQOiHGc.jpg</fanart>
-<info>britishbulldog</info>
-</channels>
-
-
-
+    xml = "<dir>"\
+          "<title>[COLOR blue]Season %s[/COLOR]</title>"\
+          "<meta>"\
+          "<imdb>%s</imdb>"\
+          "<content>season</content>"\
+          "<season>%s</season>"\
+          "</meta>"\
+          "<link>trakt_season(%s,%s, %s, %s, %s, %s)</link>"\
+          "<thumbnail>%s</thumbnail>" \
+          "<fanart>%s</fanart>" \
+          "</dir>" % (season, imdb, season, trakt_id, season, year,
+                      tvtitle, tmdb,
+                      imdb, thumbnail, fanart)
+    return xml
 
