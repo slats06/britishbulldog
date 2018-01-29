@@ -1,15 +1,15 @@
     xml = "<dir>"\
-          "<title>[COLOR blue]Season %s[/COLOR]</title>"\
+          "<title>[COLOR blue]Arrow (2012)[/COLOR]</title>"\
           "<meta>"\
-          "<imdb>%s</imdb>"\
-          "<content>season</content>"\
-          "<season>%s</season>"\
+          "<content>tvshow</content>"\
+          "<imdb>tt2193021</imdb>"\
+          "<tvdb>257655</tvdb>"\
+          "<tvshowtitle>Arrow</tvshowtitle>"\
+          "<year>2012</year>"\
           "</meta>"\
-          "<link>trakt_season(%s,%s, %s, %s, %s, %s)</link>"\
+          "<link>trakt_tv_show(%s, %s, %s, %s, %s)</link>"\
           "<thumbnail>%s</thumbnail>" \
           "<fanart>%s</fanart>" \
-          "</dir>" % (season, imdb, season, trakt_id, season, year,
-                      tvtitle, tmdb,
+          "</dir>" % (title, imdb, title, year, trakt_id, year, title, tmdb,
                       imdb, thumbnail, fanart)
     return xml
-
