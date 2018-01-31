@@ -1,4 +1,12 @@
-    xml = "<dir>"\
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.britishbulldog/?action=search</link>
+<thumbnail>https://www.nichepursuits.com/wp-content/uploads/2011/06/search-volume.jpg</thumbnail>
+</plugin>    
+
+
+
+xml = "<dir>"\
           "<title>[COLOR blue]Arrow (2012)[/COLOR]</title>"\
           "<meta>"\
           "<content>tvshow</content>"\
