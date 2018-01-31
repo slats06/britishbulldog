@@ -5,6 +5,13 @@
 </plugin>
 
 <item>
+<title>[COLOR red]Search For A Movie[/COLOR]</title>
+<multisearch>None</multisearch>
+<thumbnail>http://i.imgur.com/OwwZaN0.png</thumbnail>
+<fanart>http://i.imgur.com/rqPqVFx.png</fanart>
+</item>
+
+<item>
 <title>Dismissed.2017.1080p.</title>
 <link>https://uptobox.com/md779to2ujly</link>
 <thumbnail>https://img.localcdn.net/m/d/5039994/1.jpg</thumbnail>
