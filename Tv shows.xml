@@ -1,8 +1,4 @@
-<plugin>
-<name>30702</name>
-<link>plugin://plugin.video.britishbulldog/?action=search</link>
-<thumbnail>https://www.nichepursuits.com/wp-content/uploads/2011/06/search-volume.jpg</thumbnail>
-</plugin>    
+
 
 
 
@@ -15,9 +11,9 @@ xml = "<dir>"\
           "<tvshowtitle>Arrow</tvshowtitle>"\
           "<year>2012</year>"\
           "</meta>"\
-          "<link>trakt_tv_show(%s, %s, %s, %s, %s)</link>"\
-          "<thumbnail>%s</thumbnail>" \
-          "<fanart>%s</fanart>" \
+          "<link></link>"\
+          "<thumbnail></thumbnail>" \
+          "<fanart>%</fanart>" \
           "</dir>" % (title, imdb, title, year, trakt_id, year, title, tmdb,
                       imdb, thumbnail, fanart)
     return xml
