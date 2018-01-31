@@ -5,14 +5,23 @@
 </plugin>
 
 
+
 <item>
-<title>Maze Runner The Death Cure 2017 HDCAM</title>
-<link>
-https://streamango.com/f/teolqbepsankopaa/Maze_Runner_The_Death_Cure_2018_720p_HDCAM_X264-PilaMutanteAtaca_mkv
-</link>
-<thumbnail>https://i.imgur.com/SGTQZXK.jpg</thumbnail>
-<fanart></fanart>
+        <title>Coco 2017</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2380307</imdb>
+                <title>Coco (2017)</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+       <thumbnail>https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg</thumbnail>
+       <fanart>https://i.ytimg.com/vi/X_lNIjjWIjo/maxresdefault.jpg</fanart>
 </item>
+
 
 <item>
 <title>Dismissed.2017.1080p.</title>
