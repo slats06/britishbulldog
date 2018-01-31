@@ -12,8 +12,8 @@ xml = "<dir>"\
           "<year>2012</year>"\
           "</meta>"\
           "<link></link>"\
-          "<thumbnail></thumbnail>" \
-          "<fanart>%</fanart>" \
+          "<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwOTgyNTQ1M15BMl5BanBnXkFtZTgwNDEyNzM3MzI@._V1_SY1000_SX800_AL_.jpg</thumbnail>" \
+          "<fanart>https://image.tmdb.org/t/p/original/zaqAlAdjZGBuFMsHsLUYjDlgm9r.jpg</fanart>" \
           "</dir>" % (title, imdb, title, year, trakt_id, year, title, tmdb,
                       imdb, thumbnail, fanart)
     return xml
