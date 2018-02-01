@@ -11,7 +11,7 @@ xml = "<dir>"\
           "<tvshowtitle>Arrow</tvshowtitle>"\
           "<year>2012</year>"\
           "</meta>"\
-          "<link></link>"\
+          "<link>https://raw.githubusercontent.com/slats06/britishbulldog/master/arrow%20season%201-6</link>"\
           "<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwOTgyNTQ1M15BMl5BanBnXkFtZTgwNDEyNzM3MzI@._V1_SY1000_SX800_AL_.jpg</thumbnail>" \
           "<fanart>https://image.tmdb.org/t/p/original/zaqAlAdjZGBuFMsHsLUYjDlgm9r.jpg</fanart>" \
           "</dir>" % (title, imdb, title, year, trakt_id, year, title, tmdb,
