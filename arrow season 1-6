@@ -1,6 +1,6 @@
 
-<dir>
-        <name>arrow season 1</name>
+<item>
+        <title>arrow season 1</title>
         <meta>
                 <content>season</content>
                 <imdb>tt2340185</imdb>
@@ -12,10 +12,42 @@
         <link>https://raw.githubusercontent.com/slats06/britishbulldog/master/arrow%20season%201%20full%20episodes</link>
         <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+        </item>
         
         
-        <dir>
-        <name>arrow season 2</name>
+<item>
+        <title>arrow season 2</title>
+        <meta>
+                <content>season</content>
+                <imdb>tt2340185</imdb>
+                <tvdb>257655</tvdb>
+                <tvshowtitle>arrow</tvshowtitle>
+                <year>2012</year>
+                <season>1</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+        </item>
+        
+        
+<item>
+        <title>arrow season 3</title>
+        <meta>
+                <content>season</content>
+                <imdb>tt2340185</imdb>
+                <tvdb>257655</tvdb>
+                <tvshowtitle>arrow</tvshowtitle>
+                <year>2012</year>
+                <season>1</season>
+        </meta>
+        <link></link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+        </item>
+        
+<item>
+        <title>arrow season 4</title>
         <meta>
                 <content>season</content>
                 <imdb>tt2340185</imdb>
@@ -28,9 +60,8 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
         
-        
-        <dir>
-        <name>arrow season 3</name>
+<item>
+        <title>arrow season 5</title>
         <meta>
                 <content>season</content>
                 <imdb>tt2340185</imdb>
@@ -42,10 +73,10 @@
         <link></link>
         <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+        </item>
         
-        
-        <dir>
-        <name>arrow season 4</name>
+<item>
+        <title>arrow season 6</title>
         <meta>
                 <content>season</content>
                 <imdb>tt2340185</imdb>
@@ -57,31 +88,4 @@
         <link></link>
         <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
         <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
-        
-        <dir>
-        <name>arrow season 5</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt2340185</imdb>
-                <tvdb>257655</tvdb>
-                <tvshowtitle>arrow</tvshowtitle>
-                <year>2012</year>
-                <season>1</season>
-        </meta>
-        <link></link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
-        
-        <dir>
-        <name>arrow season 6</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt2340185</imdb>
-                <tvdb>257655</tvdb>
-                <tvshowtitle>arrow</tvshowtitle>
-                <year>2012</year>
-                <season>1</season>
-        </meta>
-        <link></link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+        </item>
