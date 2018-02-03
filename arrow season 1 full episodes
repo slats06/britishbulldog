@@ -15,11 +15,9 @@
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
-</item>
+                <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+                <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
+        </item>
 
 
 <item>
@@ -39,11 +37,9 @@
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
-</item>
+               <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+               <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
+        </item>
 
 
 <item>
@@ -63,11 +59,9 @@
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
-</item>
+              <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+              <fanart>https://image.tmdb.org/t/p/original/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</fanart>
+        </item>
 
 
 <item>
