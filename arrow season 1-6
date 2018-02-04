@@ -1,18 +1,19 @@
 
-<item>
-        <title>arrow season 1</title>
-        <meta>
-                <content>season</content>
-                <imdb>tt2340185</imdb>
-                <tvdb>257655</tvdb>
-                <tvshowtitle>arrow</tvshowtitle>
-                <year>2012</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/slats06/britishbulldog/master/arrow%20season%201%20full%20episodes</link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
-        <fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
-        </item>
+<dir>
+
+<name>arrow season 1</name>
+<meta>
+<content>season</content>
+<imdb>tt2340185</imdb>
+<tvdb>257655</tvdb>
+<tvshowtitle>arrow</tvshowtitle>
+<year>2012</year>
+<season>1</season>
+</meta>
+<link>https://raw.githubusercontent.com/slats06/britishbulldog/master/arrow%20season%201%20full%20episodes</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/_cache/fanart/original/257655-16.jpg</fanart>
+</dir>
         
         
 <item>
