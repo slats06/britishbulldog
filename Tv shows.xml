@@ -1,10 +1,4 @@
-<dir>
- <title>Tv Show Scrapers</title>  
- <tmdb>list/46662</tmdb> 
-</dir>          
-
-
-
+     
 xml = "<dir>"\
           "<title>[COLOR blue]Arrow (2012)[/COLOR]</title>"\
           "<meta>"\
