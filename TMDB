@@ -1,6 +1,7 @@
 <dir>
 <title>TMDB Popular Movies</title>
 <tmdb>Popular Movies</tmdb>
+<link>https://www.themoviedb.org/movie</link>
 <thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8.jpg</thumbnail>
 </dir>
 
@@ -20,6 +21,7 @@
 <dir>
 <title>TMDB Top Rated TV Shows</title>
 <tmdb>Top Rated TV Shows</tmdb>
+<link>https://www.themoviedb.org/tv/top-rated</link>
 <thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8.jpg</thumbnail>
 </dir>
 
