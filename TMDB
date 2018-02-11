@@ -1,7 +1,17 @@
 <dir>
+<title>search</title>
+<link>https://api.themoviedb.org/3/search/movie?query=[your query]</link>
+</link><thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8.jpg</thumbnail>
+</dir>
+
+                                                                                  
+
+
+<dir>
 <title>TMDB Popular Movies</title>
 <tmdb>Popular Movies</tmdb>
-<link>https://www.themoviedb.org/movie</link>
+<link>https://www.themoviedb.org/list/47313?api_key=###&language=en-US
+</link>
 <thumbnail>https://pbs.twimg.com/profile_images/789117657714831361/zGfknUu8.jpg</thumbnail>
 </dir>
 
