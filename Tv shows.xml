@@ -16,6 +16,15 @@ xml = "<dir>"\
     return xml
 
 
-
-
-xml = "<dir>"\          "<title>[COLOR blue]Britannia[/COLOR]</title>"\          "<meta>"\          "<content>tvshow</content>"\          "<imdb>tt5932548</imdb>"\          "<tvdb>70484</tvdb>"\          "<tvshowtitle>Britannia</tvshowtitle>"\          "<year>2018</year>"\          "</meta>"\          "<link>https://www.thetvdb.com/?tab=season&seriesid=333644&seasonid=739523&lid=7</link>"\          "<thumbnail>https://image.tmdb.org/t/p/original/34kMkOvCuaVJ9DntejWi1mT5jdF.jpg</thumbnail>" \          "<fanart>http://www.imdb.com/title/tt5932548/mediaviewer/rm2129350912</fanart>" \          "</dir>" % (title, imdb, title, year, trakt_id, year, title, tmdb,                      imdb, thumbnail, fanart)    return xml
+<dir>
+     <title>Britannia(2018)</title>
+     <meta>
+     <content>tvshow</content>
+     <imdb>tt5932548</imdb>
+     <tvdb>70484</tvdb>
+     <tvshowtitle>Britannia</tvshowtitle>     
+     <year>2018</year>   
+     </meta>
+     <link></link>
+     <thumbnail>https://image.tmdb.org/t/p/original/34kMkOvCuaVJ9DntejWi1mT5jdF.jpg</thumbnail>
+     <fanart>https://i.ytimg.com/vi/roYhSQEXHu4/maxresdefault.jpg</fanart>
