@@ -16,7 +16,7 @@ xml = "<dir>"\
     return xml
 
 
-<dir>
+xml =<dir>
      <title>Britannia(2018)</title>
      <meta>
      <content>tvshow</content>
