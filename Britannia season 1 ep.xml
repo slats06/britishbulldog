@@ -1,5 +1,7 @@
 ﻿<item> 
-<title>s01 e01</title> 
+<title>s01 e01</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail>  
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>  
 <meta> 
 <content>episode</content> 
 <imdb>tt6035626</imdb> 
@@ -19,8 +21,9 @@
 
 
 <item> 
-<title>s01 e02</title> 
-<meta> 
+<title>s01 e02</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail> 
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>  
 <content>episode</content> 
 <imdb>tt6035628</imdb> 
 <tvdb>333644</tvdb> 
@@ -41,6 +44,8 @@
 
 <item>
 <title>s01 e03</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>
 <meta>
 <content>episode</content>
 <imdb>tt6035632</imdb>
@@ -62,6 +67,8 @@
 
 <item>
 <title>s01 e04</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>
 <meta>
 <content>episode</content>
 <imdb>tt6035634</imdb>
@@ -83,6 +90,8 @@
 
 <item>
 <title>s01 e05</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>
 <meta>
 <content>episode</content>
 <imdb>tt6035638</imdb>
@@ -104,6 +113,8 @@
 
 <item>
 <title>s01 e06</title>
+<thumbnail>https://www.thetvdb.com/banners/posters/333644-4.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/333644-8.jpg</fanart>
 <meta>
 <content>episode</content>
 <imdb>tt6035644</imdb>
