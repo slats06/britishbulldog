@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:1,house only, tdi radio
+http://streaming14.tdiradio.com:8000/house
+
+#EXTM3U
+#EXTINF:1,247 house
+http://hearme.fm:8214/stream
+
+#EXTM3U
+#EXTINF:1,deep house
+http://hearme.fm:8214/stream
+
+#EXTM3U
+#EXTINF:1,CostaDelMar-DeepHouse
+http://streaming210.radionomy.com:80/CostaDelMar-DeepHouse
+
+#EXTM3U
+#EXTINF:1,TheHouseOfHouse
+http://streaming211.radionomy.com:80/The-House-Of-House
+
+#EXTM3U
+#EXTINF:1,ITALOHOUSERADIO
+http://streaming210.radionomy.com:80/ITALOHOUSERADIO
+
+#EXTM3U
+#EXTINF:1,ABCDANCEHOUSE
+http://streaming211.radionomy.com:80/ABCDANCEHOUSE
