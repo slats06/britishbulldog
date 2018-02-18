@@ -22,13 +22,13 @@
 <fanart>http://rock95.com/wp-content/uploads/2016/09/watch-tv-shows.jpg</fanart>
 </dir>	
 
-<channel>
+<dir>
 <name>house music radio</name>
 <thumbnail>http://i.imgur.com/HkRSVX3.jpg</thumbnail>
 <externallink>https://simplekore.com/wp-content/uploads/file-manager/slater06/house2.txt</externallink>
 <fanart>http://i.imgur.com/1j8bfzw.jpg</fanart>
 <info>british bulldog</info>
-</channel>
+</dir>
 
 <dir>
 <name>TMDB Tv Shows/Movies</name> 
