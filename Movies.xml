@@ -1,29 +1,22 @@
 
 <item>
-  <title>Pitch Perfect 3</title>
-  <link>Movie Search</link>
-  <sublink>none</sublink>
-  <thumbnail>https://i.imgur.com/y9Xyfhg.jpg</thumbnail>
-  <plot> Description: After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren't job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.</plot>
-  <year>2017</year>
-  <fanart>https://image.tmdb.org/t/p/w780/1qIzlhLGPSm6TxlvXBWe0Q5er7O.jpg</fanart>
-</item>
-<item>
+        <title>Pitch Perfect 3</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4765284</imdb>
+                <tmdb>353616</tmdb>
+                <title> Pitch Perfect 3 (2017)</title>
+                <year>2017</year>
+        </meta>
+        <link>  
+               
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+       <thumbnail>https://i.imgur.com/y9Xyfhg.jpg</thumbnail>
+       <fanart>https://image.tmdb.org/t/p/w780/1qIzlhLGPSm6TxlvXBWe0Q5er7O.jpg</fanart>
+</item> 
 
-  
-  <item>
-<title>Mr. Robot</title>
-<link>tv search</link>
-<sublink>none</sublink>
-<thumbnail>http://static.tvmaze.com/uploads/images/small_portrait/125/314759.jpg</thumbnail>
-<plot>plot</plot>
-<season>03</season>
-<episode>10</episode>
-<season_year>2015</season_year>
-<fanart>http://static.tvmaze.com/uploads/images/small_portrait/125/314759.jpg</fanart>
-</item>
-
-  
 
 <item>
         <title>Ferdinand.2017</title>
