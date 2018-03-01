@@ -1,3 +1,21 @@
+<item>
+        <title> Thor: Ragnarok (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3501632</imdb>
+                <tmdb>284053</tmdb>
+                <title>Thor: Ragnarok (2017)</title>
+                <year>2017</year>
+        </meta>
+        <link>  
+               
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+       <thumbnail>https://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg</thumbnail>
+       <fanart>https://image.tmdb.org/t/p/original/iNO45KgsVad8KvBrKDezmEeQJ70.jpg</fanart>
+</item> 
+
 
 <item>
         <title>Pitch Perfect 3</title>
@@ -5,7 +23,7 @@
                 <content>movie</content>
                 <imdb>tt4765284</imdb>
                 <tmdb>353616</tmdb>
-                <title> Pitch Perfect 3 (2017)</title>
+                <title>Pitch Perfect 3 (2017)</title>
                 <year>2017</year>
         </meta>
         <link>  
