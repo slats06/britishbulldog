@@ -1,5 +1,23 @@
 
 
+<item>
+        <title>Black Panther 2018</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1825683</imdb>
+                <tmdb>284054</tmdb>
+                <title>Black Panther (2018)</title>
+                <year>2018</year>
+        </meta>
+        <link>  
+                <sublink></sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+       <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg</thumbnail>
+       <fanart>https://image.tmdb.org/t/p/original/g48QjOQSy6PUMGPoKm8BZYyLEAw.jpg</fanart>
+</item> 
+
 
 <item>
         <title>Birdland.2018</title>
