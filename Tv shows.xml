@@ -49,3 +49,23 @@ xml =<dir>
 imdb, thumbnail, fanart)
     return xml
 
+
+xml =<dir>
+     <title>[COLOR blue]Tom Clancy's Jack Ryan Season 1(2018)[/COLOR]</title>
+     <meta>
+     <content>tvshow</content>
+     <imdb>tt5057054</imdb>
+     <tvdb>336261</tvdb>
+     <tvshowtitle>Tom Clancy's Jack Ryan Season 1</tvshowtitle>     
+     <year>2018</year>   
+     </meta>
+     <link>https://raw.githubusercontent.com/slats06/britishbulldog/master/jack%20reacher%20season%201/link>
+     <thumbnail>https://www.thetvdb.com/banners/posters/336261-2.jpg</thumbnail>
+     <fanart>https://www.thetvdb.com/banners/fanart/original/336261-1.jpg</fanart>
+</dir> % (title, imdb, title, year, trakt_id, year, title, tmdb,
+imdb, thumbnail, fanart)
+    return xml
+
+
+
+
