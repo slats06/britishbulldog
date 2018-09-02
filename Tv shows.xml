@@ -59,7 +59,7 @@ xml =<dir>
      <tvshowtitle>Tom Clancy's Jack Ryan Season 1</tvshowtitle>     
      <year>2018</year>   
      </meta>
-     <link>https://raw.githubusercontent.com/slats06/britishbulldog/master/jack%20reacher%20season%201/link>
+     <link>https://raw.githubusercontent.com/slats06/britishbulldog/master/jack%20reacher%20season%201.xml</link>
      <thumbnail>https://www.thetvdb.com/banners/posters/336261-2.jpg</thumbnail>
      <fanart>https://www.thetvdb.com/banners/fanart/original/336261-1.jpg</fanart>
 </dir> % (title, imdb, title, year, trakt_id, year, title, tmdb,
